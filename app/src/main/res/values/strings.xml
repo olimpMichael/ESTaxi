@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ESTaxi</string>
+    <string name="title_activity_main">Map</string>
+    <string name="button">Download</string>
+</resources>

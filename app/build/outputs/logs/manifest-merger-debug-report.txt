@@ -1,0 +1,226 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\michael\.android\build-cache\500e9a6e197e79d62e51a4f2a4861dc33188b9a6\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\michael\.android\build-cache\d7454a2e75c55d5800d1cd6480a1cf0d6ebd2e17\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] C:\Users\michael\.android\build-cache\575c33904990d55d9ed2deb144053b1124374a1d\output\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\michael\.android\build-cache\b7d0cd92c6dc62c4263c7cdd1a561e42b8674a26\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\michael\.android\build-cache\aaa090558dc36ac7c7ed474718255dba68cf21e7\output\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml:9:5-81
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\michael\.android\build-cache\aaa090558dc36ac7c7ed474718255dba68cf21e7\output\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml:9:22-78
+application
+ADDED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml:12:5-32:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\michael\.android\build-cache\0371a02dafa59d66f7b020bb31bff5105f6bb6d9\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services:7.5.0] C:\Users\michael\.android\build-cache\51654eea7f5ff548a64c7a68b9725edb9fbfad4a\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\michael\.android\build-cache\500e9a6e197e79d62e51a4f2a4861dc33188b9a6\output\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\michael\.android\build-cache\d7454a2e75c55d5800d1cd6480a1cf0d6ebd2e17\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] C:\Users\michael\.android\build-cache\e4ac9739590c7cfad54d2a19b9f9ed9a40a60c79\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] C:\Users\michael\.android\build-cache\575c33904990d55d9ed2deb144053b1124374a1d\output\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-appstate:7.5.0] C:\Users\michael\.android\build-cache\57470f2b8eafc2f7ceb69c3a4f5ddedd55d972a6\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:7.5.0] C:\Users\michael\.android\build-cache\69f9232a3c37279c79441aa775455f73c5ba4b01\output\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:22.0.0] C:\Users\michael\.android\build-cache\dd5d5afa9ef7e572bd8951229fd58280f6987ce0\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\michael\.android\build-cache\21bce1fb4454c73c27fe54fd5a89aab508c4ef21\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\michael\.android\build-cache\a079ffd08029dab77a50d2bcbd7b017916953979\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\michael\.android\build-cache\0a93017a4ca14788e2fdfc56aaa35f27c22aa06e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-fitness:7.5.0] C:\Users\michael\.android\build-cache\19b676c0faa27dad0c766588ea2bedea16847f08\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:7.5.0] C:\Users\michael\.android\build-cache\afaf1f24e8c6172e214ca6e428477f434f152475\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] C:\Users\michael\.android\build-cache\51a98cb342ab8e7f0ddf5dd6cc2bbad257b6994e\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:7.5.0] C:\Users\michael\.android\build-cache\11582b3f8548d9062a72d8b270a569bdd160097c\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:7.5.0] C:\Users\michael\.android\build-cache\57141281f6cf1653f6500e1aa6140f1b431f5f40\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] C:\Users\michael\.android\build-cache\a214c9e17619c31cff7f3c4c181bc748e19e10c0\output\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:7.5.0] C:\Users\michael\.android\build-cache\8fd70e40cc8365f0986b7a712c75fb8e791614be\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:7.5.0] C:\Users\michael\.android\build-cache\e46e46e7e7e89009cf116f6a7b5055e106b5646d\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] C:\Users\michael\.android\build-cache\97cb14bd925f969a45de5cee8cb7c8697bd5ec3b\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\michael\.android\build-cache\b7d0cd92c6dc62c4263c7cdd1a561e42b8674a26\output\AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] C:\Users\michael\.android\build-cache\1ab890ed9784a60daa2584e4a703ec3f24afd7d0\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\michael\.android\build-cache\aaa090558dc36ac7c7ed474718255dba68cf21e7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-wearable:7.5.0] C:\Users\michael\.android\build-cache\14f617948851a294a9cc66977efec82de0f66da0\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\michael\.android\build-cache\d48a6b3513bd09ea422723f25d0c5409fbc07d60\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\michael\.android\build-cache\2e7eb53a16ec31d06f5ad1d7839c297ff1afdeb7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\michael\.android\build-cache\c19df454d702b6b71e603b4bc93f0dc57fa09d2f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\michael\.android\build-cache\0ffc5fda1e4600ded3a5eaa3bbe19643d95e8f1f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\michael\.android\build-cache\f3fe2b8d9a899d1a8e849345880569d88b6bb28c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\michael\.android\build-cache\7e7a44fe30b0b40f9b0028af6516d39298d9b245\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\michael\.android\build-cache\f897e2d6c43deca8b132de4985c68c28be77cf6f\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml:15:9-41
+	android:supportsRtl
+		ADDED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml:17:9-35
+	android:roundIcon
+		ADDED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml:16:9-54
+	android:allowBackup
+		ADDED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml:14:9-43
+	android:theme
+		ADDED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml:18:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml:20:9-22:55
+	android:value
+		ADDED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml:22:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml:21:13-58
+activity#ru.michael.estaxi.MainActivity
+ADDED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml:25:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\michael\.android\build-cache\0371a02dafa59d66f7b020bb31bff5105f6bb6d9\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services:7.5.0] C:\Users\michael\.android\build-cache\51654eea7f5ff548a64c7a68b9725edb9fbfad4a\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\michael\.android\build-cache\500e9a6e197e79d62e51a4f2a4861dc33188b9a6\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\michael\.android\build-cache\d7454a2e75c55d5800d1cd6480a1cf0d6ebd2e17\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] C:\Users\michael\.android\build-cache\e4ac9739590c7cfad54d2a19b9f9ed9a40a60c79\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] C:\Users\michael\.android\build-cache\575c33904990d55d9ed2deb144053b1124374a1d\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:7.5.0] C:\Users\michael\.android\build-cache\57470f2b8eafc2f7ceb69c3a4f5ddedd55d972a6\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:7.5.0] C:\Users\michael\.android\build-cache\69f9232a3c37279c79441aa775455f73c5ba4b01\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:22.0.0] C:\Users\michael\.android\build-cache\dd5d5afa9ef7e572bd8951229fd58280f6987ce0\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\michael\.android\build-cache\21bce1fb4454c73c27fe54fd5a89aab508c4ef21\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\michael\.android\build-cache\a079ffd08029dab77a50d2bcbd7b017916953979\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\michael\.android\build-cache\0a93017a4ca14788e2fdfc56aaa35f27c22aa06e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-fitness:7.5.0] C:\Users\michael\.android\build-cache\19b676c0faa27dad0c766588ea2bedea16847f08\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:7.5.0] C:\Users\michael\.android\build-cache\afaf1f24e8c6172e214ca6e428477f434f152475\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] C:\Users\michael\.android\build-cache\51a98cb342ab8e7f0ddf5dd6cc2bbad257b6994e\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:7.5.0] C:\Users\michael\.android\build-cache\11582b3f8548d9062a72d8b270a569bdd160097c\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:7.5.0] C:\Users\michael\.android\build-cache\57141281f6cf1653f6500e1aa6140f1b431f5f40\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] C:\Users\michael\.android\build-cache\a214c9e17619c31cff7f3c4c181bc748e19e10c0\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:7.5.0] C:\Users\michael\.android\build-cache\8fd70e40cc8365f0986b7a712c75fb8e791614be\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:7.5.0] C:\Users\michael\.android\build-cache\e46e46e7e7e89009cf116f6a7b5055e106b5646d\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] C:\Users\michael\.android\build-cache\97cb14bd925f969a45de5cee8cb7c8697bd5ec3b\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\michael\.android\build-cache\b7d0cd92c6dc62c4263c7cdd1a561e42b8674a26\output\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] C:\Users\michael\.android\build-cache\1ab890ed9784a60daa2584e4a703ec3f24afd7d0\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\michael\.android\build-cache\aaa090558dc36ac7c7ed474718255dba68cf21e7\output\AndroidManifest.xml:28:5-42
+MERGED from [com.google.android.gms:play-services-wearable:7.5.0] C:\Users\michael\.android\build-cache\14f617948851a294a9cc66977efec82de0f66da0\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\michael\.android\build-cache\d48a6b3513bd09ea422723f25d0c5409fbc07d60\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\michael\.android\build-cache\2e7eb53a16ec31d06f5ad1d7839c297ff1afdeb7\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\michael\.android\build-cache\c19df454d702b6b71e603b4bc93f0dc57fa09d2f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\michael\.android\build-cache\0ffc5fda1e4600ded3a5eaa3bbe19643d95e8f1f\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\michael\.android\build-cache\f3fe2b8d9a899d1a8e849345880569d88b6bb28c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\michael\.android\build-cache\7e7a44fe30b0b40f9b0028af6516d39298d9b245\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\michael\.android\build-cache\f897e2d6c43deca8b132de4985c68c28be77cf6f\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\michael\.android\build-cache\21bce1fb4454c73c27fe54fd5a89aab508c4ef21\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Task\ESTaxi\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\michael\.android\build-cache\500e9a6e197e79d62e51a4f2a4861dc33188b9a6\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] C:\Users\michael\.android\build-cache\d7454a2e75c55d5800d1cd6480a1cf0d6ebd2e17\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] C:\Users\michael\.android\build-cache\a214c9e17619c31cff7f3c4c181bc748e19e10c0\output\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\michael\.android\build-cache\aaa090558dc36ac7c7ed474718255dba68cf21e7\output\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\michael\.android\build-cache\500e9a6e197e79d62e51a4f2a4861dc33188b9a6\output\AndroidManifest.xml:21:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\michael\.android\build-cache\500e9a6e197e79d62e51a4f2a4861dc33188b9a6\output\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\michael\.android\build-cache\500e9a6e197e79d62e51a4f2a4861dc33188b9a6\output\AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\michael\.android\build-cache\500e9a6e197e79d62e51a4f2a4861dc33188b9a6\output\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\michael\.android\build-cache\500e9a6e197e79d62e51a4f2a4861dc33188b9a6\output\AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\michael\.android\build-cache\500e9a6e197e79d62e51a4f2a4861dc33188b9a6\output\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\michael\.android\build-cache\500e9a6e197e79d62e51a4f2a4861dc33188b9a6\output\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\Users\michael\.android\build-cache\500e9a6e197e79d62e51a4f2a4861dc33188b9a6\output\AndroidManifest.xml:30:19-91
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\michael\.android\build-cache\21bce1fb4454c73c27fe54fd5a89aab508c4ef21\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\michael\.android\build-cache\a079ffd08029dab77a50d2bcbd7b017916953979\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\michael\.android\build-cache\0a93017a4ca14788e2fdfc56aaa35f27c22aa06e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\michael\.android\build-cache\2e7eb53a16ec31d06f5ad1d7839c297ff1afdeb7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\michael\.android\build-cache\c19df454d702b6b71e603b4bc93f0dc57fa09d2f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\michael\.android\build-cache\0ffc5fda1e4600ded3a5eaa3bbe19643d95e8f1f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\michael\.android\build-cache\f3fe2b8d9a899d1a8e849345880569d88b6bb28c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\michael\.android\build-cache\7e7a44fe30b0b40f9b0028af6516d39298d9b245\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\michael\.android\build-cache\f897e2d6c43deca8b132de4985c68c28be77cf6f\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\michael\.android\build-cache\21bce1fb4454c73c27fe54fd5a89aab508c4ef21\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\michael\.android\build-cache\21bce1fb4454c73c27fe54fd5a89aab508c4ef21\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\michael\.android\build-cache\b7d0cd92c6dc62c4263c7cdd1a561e42b8674a26\output\AndroidManifest.xml:21:5-70
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\michael\.android\build-cache\b7d0cd92c6dc62c4263c7cdd1a561e42b8674a26\output\AndroidManifest.xml:21:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\michael\.android\build-cache\b7d0cd92c6dc62c4263c7cdd1a561e42b8674a26\output\AndroidManifest.xml:22:5-73
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\michael\.android\build-cache\b7d0cd92c6dc62c4263c7cdd1a561e42b8674a26\output\AndroidManifest.xml:22:22-71
+meta-data#com.google.android.gms.wallet.api.enabled
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\michael\.android\build-cache\b7d0cd92c6dc62c4263c7cdd1a561e42b8674a26\output\AndroidManifest.xml:25:9-27:36
+	android:value
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\michael\.android\build-cache\b7d0cd92c6dc62c4263c7cdd1a561e42b8674a26\output\AndroidManifest.xml:27:13-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\michael\.android\build-cache\b7d0cd92c6dc62c4263c7cdd1a561e42b8674a26\output\AndroidManifest.xml:26:13-69
+receiver#com.google.android.gms.wallet.EnableWalletOptimizationReceiver
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\michael\.android\build-cache\b7d0cd92c6dc62c4263c7cdd1a561e42b8674a26\output\AndroidManifest.xml:28:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\michael\.android\build-cache\b7d0cd92c6dc62c4263c7cdd1a561e42b8674a26\output\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\michael\.android\build-cache\b7d0cd92c6dc62c4263c7cdd1a561e42b8674a26\output\AndroidManifest.xml:29:13-90
+intent-filter#com.google.android.gms.wallet.ENABLE_WALLET_OPTIMIZATION
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\michael\.android\build-cache\b7d0cd92c6dc62c4263c7cdd1a561e42b8674a26\output\AndroidManifest.xml:31:13-33:29
+action#com.google.android.gms.wallet.ENABLE_WALLET_OPTIMIZATION
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\michael\.android\build-cache\b7d0cd92c6dc62c4263c7cdd1a561e42b8674a26\output\AndroidManifest.xml:32:17-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\Users\michael\.android\build-cache\b7d0cd92c6dc62c4263c7cdd1a561e42b8674a26\output\AndroidManifest.xml:32:25-96
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\michael\.android\build-cache\aaa090558dc36ac7c7ed474718255dba68cf21e7\output\AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\michael\.android\build-cache\aaa090558dc36ac7c7ed474718255dba68cf21e7\output\AndroidManifest.xml:23:22-78
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\michael\.android\build-cache\aaa090558dc36ac7c7ed474718255dba68cf21e7\output\AndroidManifest.xml:24:5-26:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\michael\.android\build-cache\aaa090558dc36ac7c7ed474718255dba68cf21e7\output\AndroidManifest.xml:25:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:7.5.0] C:\Users\michael\.android\build-cache\aaa090558dc36ac7c7ed474718255dba68cf21e7\output\AndroidManifest.xml:26:8-31
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\michael\.android\build-cache\d48a6b3513bd09ea422723f25d0c5409fbc07d60\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\michael\.android\build-cache\d48a6b3513bd09ea422723f25d0c5409fbc07d60\output\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:7.5.0] C:\Users\michael\.android\build-cache\d48a6b3513bd09ea422723f25d0c5409fbc07d60\output\AndroidManifest.xml:22:13-58
